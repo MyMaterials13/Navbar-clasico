@@ -6,7 +6,7 @@ import Home from "./pages/Home";
 
 const routes = [
   {
-    path: "/",
+    path: "/Navbar-clasico",
     element: <Home />,
     errorElement: "<Page404 />",
   },
